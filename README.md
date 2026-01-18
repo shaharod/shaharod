@@ -1,5 +1,12 @@
 # Shahar Oded-Koren
 
+**Computer Science & Computational** Biology student at Hebrew University
+
+proficient in Python and C/C++.
+
+ Currently gaining hands-on experience in ML research and seeking an entry-level industry role
+
+
 ## ➤ Skills
 * **Languages**: Python, C/C++
 * **Data & Queries**: R, SQL
