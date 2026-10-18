@@ -15,12 +15,12 @@ proficient in Python and C/C++.
 
 ---
 
-## ➤ Current Role
+## ➤ Recent Experience
 ### ML Research Student | ML Cancer Signal Decomposition
-**Nir Friedman Lab, The Hebrew University of Jerusalem** | *2025 - Present*
-* Developing unsupervised autoencoder models to isolate cancer-specific signals within high-dimensional genomic datasets
-* Working with a peer researcher to design and iterate on the project’s computational architecture
-* Using Python and PyTorch to build models and handle large-scale data processing efficiently
+**Nir Friedman Lab, The Hebrew University of Jerusalem** | *2025 - 2026*
+* Developed unsupervised autoencoder models to isolate cancer-specific signals within high-dimensional genomic datasets
+* Worked with a peer researcher to design and iterate on the project’s computational architecture
+* Used Python and PyTorch to build models and handle large-scale data processing efficiently
 
 ---
 
